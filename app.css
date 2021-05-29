@@ -221,49 +221,49 @@ ul.stats li {
 /* Card Backgrounds */
 
 [data-card-type="A"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/a.jpg');
+    background: #f5f5f5 url('./img/a.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="B"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/b.jpg');
+    background: #f5f5f5 url('./img/b.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="C"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/c.jpg');
+    background: #f5f5f5 url('./img/c.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="D"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/d.jpg');
+    background: #f5f5f5 url('./img/d.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="E"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/e.jpg');
+    background: #f5f5f5 url('./img/e.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="F"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/f.jpg');
+    background: #f5f5f5 url('./img/f.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
 
 [data-card-type="G"] .back {
-   background: #f5f5f5 url('/home/user/Desktop/spe dog/img/g.jpg');
+   background: #f5f5f5 url('./img/g.jpg');
    background-size: 125px 125px;
    background-repeat: no-repeat;
 }
 
 [data-card-type="H"] .back {
-    background: #f5f5f5 url('/home/user/Desktop/spe dog/img/h.jpg');
+    background: #f5f5f5 url('./img/h.jpg');
     background-size: 125px 125px;
     background-repeat: no-repeat;
 }
